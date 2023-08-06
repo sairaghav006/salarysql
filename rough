@@ -1,0 +1,3 @@
+127.0.0.1
+
+<input id="input" type="search" autocomplete="off" spellcheck="false" role="combobox" aria-controls="matches" placeholder="Search Google or type a URL" aria-expanded="false" aria-live="polite">
