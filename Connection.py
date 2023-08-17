@@ -1,10 +1,12 @@
 import mysql.connector as mysql
 import xlrd
 
+#Use your MySQL connection details to connect to the DB
+
 db = mysql.connect(
     host = "127.0.0.1",
     user = "root",
-    passwd = "S@i_sql06",
+    passwd = "****",
     database = "practice")
 
 cursor = db.cursor(buffered=True)
